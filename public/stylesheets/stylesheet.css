@@ -1,0 +1,131 @@
+body
+{
+	font-family: Helvetica, sans-serif;
+	margin: 0 auto 0 auto;
+	padding: 15px;
+	padding-left: 20px;
+	background-color: #006db2;
+	max-width: 1250px;
+}
+
+.banner_h1
+{
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+	color: #f7f7f7;
+	font-size: 100px;
+	line-height: inherit;
+	padding-top: 10px;
+	margin-bottom: -1px;
+}
+
+.banner_sub
+{
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+	color:#f7f7f7;
+	font-style: italic;
+	text-transform: uppercase;
+	max-width: 400px;
+}
+
+.head_content
+{
+	font-size: 12px;
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+	color:#f7f7f7;
+}
+
+.big
+{
+	font-size: 15px;
+	line-height: inherit;
+}
+
+.bigger
+{
+	font-size: 18px;
+	line-height: inherit;
+}
+
+.biggest
+{
+	font-size: 21px;
+	line-height: inherit;
+}
+
+img
+{
+	display: inline-block;
+	padding:20px;
+}
+
+@media only screen and (max-width: 1255px) 
+{
+	img
+	{
+		padding: 25px 80px 25px 80px;
+	}
+}
+
+@media only screen and (max-width: 995px) 
+{
+	img
+	{
+		padding: 25px 50px 25px 50px;
+	}
+}
+
+@media only screen and (max-width: 900px) 
+{
+	img
+	{
+		padding: 25px 50px 25px 50px;
+	}
+}
+
+@media only screen and (max-width: 890px) 
+{
+	img
+	{
+		padding: 25px 30px 25px 30px;
+	}
+
+}
+
+@media only screen and (max-width: 770px) 
+{
+	img
+	{
+		padding:25px 30px 25px 30px;
+	}
+
+}
+
+@media only screen and (max-width: 550px) 
+{
+	.banner_h1
+	{
+		font-size: 80px;
+	}
+		img
+	{
+		padding-left:80px;
+	}
+}
+
+@media only screen and (max-width: 380px) 
+{
+	.banner_h1
+	{
+		font-size: 50px;
+	}
+	
+	img
+	{
+		padding-left:10px;
+	}
+}
+
+

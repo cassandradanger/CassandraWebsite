@@ -153,6 +153,21 @@ img
 	margin-right: auto;
 }
 
+.prime
+{
+	padding: 0px 0px 70px 0px;
+	background-color: #e2573b;
+	color: #f7f7f7;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	clear: both;
+	z-index: 8;
+}
+
 .ily
 {
    padding: 0px 0px 70px 0px;
@@ -165,7 +180,7 @@ img
    margin-right: auto;
    display: block;
    clear: both;
-   z-index: 6;
+   z-index: 7;
 }
 
 .af
@@ -181,7 +196,7 @@ img
    display: block;
    clear: both;
    overflow: hidden;
-   z-index: 5;
+   z-index: 6;
 }
 
 .pmh
@@ -196,7 +211,7 @@ img
    clear: both;
    display: block;
    padding:0px 0px 70px 0px;
-   z-index: 4;
+   z-index: 5;
 }
 
 .graves
@@ -211,7 +226,7 @@ img
    clear: both;
    display: block;
    padding: 0px 0px 70px 0px;
-   z-index: 3;
+   z-index: 4;
   }
 
 
@@ -227,8 +242,24 @@ img
    clear: both;
    display: block;
    padding: 0px 0px 70px 0px;
-   z-index: 2;
+   z-index: 3;
 }
+
+.education
+{
+	background-color: #90475f;
+	color: #f7f7f7;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	display: block;
+	padding: 0px 0px 70px 0px;
+	z-index: 2;
+}
+
 .web {
 	padding-top: 0px;
 	text-align: center;

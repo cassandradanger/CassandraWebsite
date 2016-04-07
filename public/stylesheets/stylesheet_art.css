@@ -16,6 +16,10 @@ a
 	text-decoration: none;
 }
 
+h2{
+	font-weight: 200;
+}
+
 .banner_h1
 {
 	font-family: Helvetica, sans-serif;

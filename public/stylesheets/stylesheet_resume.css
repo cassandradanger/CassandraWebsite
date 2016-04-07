@@ -12,9 +12,18 @@ body
 	-webkit-text-size-adjust: none;
 }
 
+h2{
+	font-weight: 200;
+	color: white;
+	font-size: 20px;
+}
+
 a
 {
 	text-decoration: none;
+	font-weight: 200;
+	color: white;
+	font-size: 20px;
 }
 
 .banner_h1

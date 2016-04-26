@@ -19,6 +19,11 @@ body
 	margin-bottom: -1px;
 }
 
+a{
+	text-decoration: none;
+	color: #f7f7f7;
+}
+
 .banner_sub
 {
 	font-family: Helvetica, sans-serif;
